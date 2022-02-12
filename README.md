@@ -2,8 +2,6 @@
 # IssueTrackerApp
 A web based App to tack the issues in project. 
 
-Hosted Link :- https://issue-tracker-appks.herokuapp.com/
-
 ### Tech/Framework used
 - ExpressJS
 - MongoDB
